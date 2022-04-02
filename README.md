@@ -2,7 +2,7 @@
 
 ### O que será desenvolvido
 
-Você implementará várias funções para atender aos requisitos propostos e/ou testes unitários para garantir que as implementações das funções estão corretas.
+Foi implementado várias funções para atender aos requisitos propostos e/ou testes unitários para garantir que as implementações das funções estão corretas.
 
 ### Habilidades
 
@@ -22,7 +22,7 @@ Nesse projeto, fui capaz de:
 - A função myCounter possui dois loops aninhados que inserem valores dentro de um array
 - A função numbers recebe um array (tamanho variável),
   retornando true se todos os parâmetros forem do tipo 'number' e false caso contrário
-- Função com múltiplos métodos matemáticos
+- ObjCalculator: Função com múltiplos métodos matemáticos
 - ProductsDetails: dadas duas strings que representam nomes de produtos,
   retorne um array contendo dois objetos com os detalhes dos respectivos produtos
 - Arquivo restaurant que cadastra e retorna um menu, que consegue lê-lo, fazer pedidos, verificar o que foi     pedido e somar o valor da conta
