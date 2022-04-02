@@ -15,15 +15,15 @@ Nesse projeto, fui capaz de:
 ### Funções e arquivos
 
 - A função average recebe um array (tamanho variável) e retorna a média dos valores recebidos
-- Essa função recebe o raio de um círculo,
+- A função circle recebe o raio de um círculo,
   retornando um objeto contendo suas informações (Raio, Área e Circunferência)
 - Dada uma função chamada createStudent que recebe como parâmetro um nome,
   retorne um objeto que contenha duas chaves
 - A função myCounter possui dois loops aninhados que inserem valores dentro de um array
 - A função numbers recebe um array (tamanho variável),
   retornando true se todos os parâmetros forem do tipo 'number' e false caso contrário
-- Desenvolva uma função com múltiplos métodos matemáticos
+- Função com múltiplos métodos matemáticos
 - Dadas duas strings que representam nomes de produtos,
   retorne um array contendo dois objetos com os detalhes dos respectivos produtos
-- Função que cadastra e retorna um menu, que consegue lê-lo, fazer pedidos, verificar o que foi pedido e somar   o valor da conta
-- Função que retorna uma frase pronta com os parâmetros passados
+- Arquivo restaurant que cadastra e retorna um menu, que consegue lê-lo, fazer pedidos, verificar o que foi     pedido e somar o valor da conta
+- Função vqv que retorna uma frase pronta com os parâmetros passados
